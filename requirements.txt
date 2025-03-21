@@ -1,0 +1,9 @@
+crewai
+google-generativeai
+serper
+requests
+openai
+pandas
+numpy
+flask  # If using a web framework
+streamlit  # If using Streamlit for UI
